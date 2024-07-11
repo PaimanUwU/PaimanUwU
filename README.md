@@ -1,9 +1,10 @@
-<h1 align="center">Hi there :3, I'm Ed Adi Aiman Putra</h1>
+<h1 align="center">Hi there :3, Call me Ed</h1>
+<h3 align="center">I'm a computer science major, also play guitar for fun</h3>
 <h3 align="center">I love web development >-<</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paimanuwu&label=Profile%20views&color=0e75b6&style=flat" alt="paimanuwu" /> </p>
-
 <h3 align="left">Connect with me:</h3>
+<h3>Instagram - </h3>
+
 <p align="left">
 </p>
 
