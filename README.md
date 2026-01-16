@@ -1,16 +1,11 @@
 <div align="left">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Adi%20Aiman%20Putra&fontSize=80&animation=fadeIn&fontAlign=36&desc=PaimanUwU&descAlign=78&descSize=23" alt="Header" />
-
-  ## About me
   
   ### 🇲🇾 Proud Malaysian | 💻 Computer Science Major | ☕ Coffee Enthusiast
 
   <p align="left">
     🔭 I'm currently working on Studying for Computer Science Degree at UiTM Shah Alam, Malaysia. 🌱 I'm currently learning Laravel, Astro and Typescript I go by <b>PaimanUwU</b> on the web. I'm a developer passionate about building clean web applications and exploring new tech stacks. When I'm not debugging, you'll find me driving, camping, or hunting for the perfect brew.
-  </p>
-  <p>
-    He/Him
   </p>
 
   <br/>
@@ -29,8 +24,6 @@
 
 <br/>
 <br/>
-
-## More about me:
 
 <table style="border: none; width: 100%;">
   <tr>
