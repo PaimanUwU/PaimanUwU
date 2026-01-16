@@ -73,14 +73,6 @@
       </div>
       </td>
       <td width="50%" valign="top">
-        <h4>🍃 My Happy Place</h4>
-        <div align="left">
-        <img src="https://img.shields.io/badge/Music-🎧-FF2D20?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cars-🏎️-FF2D20?style=for-the-badge&color=white" />
-        <img src="https://img.shields.io/badge/Coffee-☕-FF2D20?style=for-the-badge&color=white" />
-        <img src="https://img.shields.io/badge/Camping-⛺-FF2D20?style=for-the-badge&color=white" />
-        <br />
-        </div>
       </td>
   </tr>
 </table>
