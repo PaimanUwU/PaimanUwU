@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Adi%20Aiman%20Putra&fontSize=80&animation=fadeIn&fontAlign=50&desc=PaimanUwU&descAlign=50&descSize=25" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Adi%20Aiman%20Putra&fontSize=80&animation=fadeIn&fontAlign=50&desc=PaimanUwU&descAlign=50&descSize=25" alt="Header" />
 
   ### 🇲🇾 Proud Malaysian | 💻 Computer Science Major | ☕ Coffee Enthusiast
 
