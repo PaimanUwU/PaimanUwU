@@ -1,16 +1,83 @@
-<h1 align="center">Hi there :3, Call me Ed</h1>
-<h3 align="center">I'm a computer science major, also play guitar for fun</h3>
-<h3 align="center">I love web development >-<</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<h3>Instagram - </h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Adi%20Aiman%20Putra&fontSize=80&animation=fadeIn&fontAlign=50&desc=PaimanUwU&descAlign=50&descSize=25" alt="Header" />
 
-<p align="left">
-</p>
+  ### 🇲🇾 Proud Malaysian | 💻 Computer Science Major | ☕ Coffee Enthusiast
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+  <br/>
 
+  <p align="center">
+    Hi there! I go by <b>PaimanUwU</b> on the web. I'm a developer passionate about building clean web applications and exploring new tech stacks. When I'm not debugging, you'll find me driving, camping, or hunting for the perfect brew.
+  </p>
+
+  <img src="https://img.shields.io/badge/Pronouns-He%2FHim-2ea44f?style=flat-square" alt="Pronouns" />
+  
+  <br/>
+  <br/>
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+  <h4>🚀 My Main Arsenal</h4>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+
+  <br/>
+
+  <h4>🧪 Currently Exploring</h4>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+</div>
+
+---
+
+### 🎓 Education Journey
+
+| Status | Level | Program | Institution |
+| :---: | :--- | :--- | :--- |
+| 🎓 | **Bachelor's Degree** | Computer Science (CS230) | *UiTM Campus Shah Alam* |
+| 📜 | **Diploma** | Computer Science (CS110) | *UiTM Campus Segamat* |
+
+---
+
+### ⚡ Stats & Activity
+
+<div align="center">
+
+  <a href="https://github.com/PaimanUwU">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaimanUwU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  
+  <a href="https://github.com/PaimanUwU">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaimanUwU&layout=compact&theme=tokyonight"/>
+  </a>
+
+</div>
+
+---
+
+### 🍃 My Happy Place
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Music-🎧-FF0000?style=flat-square&color=black" />
+  <img src="https://img.shields.io/badge/Cars-🏎️-FF0000?style=flat-square&color=black" />
+  <img src="https://img.shields.io/badge/Coffee-☕-FF0000?style=flat-square&color=black" />
+  <img src="https://img.shields.io/badge/Camping-⛺-FF0000?style=flat-square&color=black" />
+</div>
+
+<br />
+
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</div>
 
 <!--
 **PaimanUwU/PaimanUwU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
