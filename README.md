@@ -20,7 +20,7 @@
 
 ### 🛠️ Background & Skills
 
-<table align="center" style="border: none;">
+<table align="center" style="border: none; width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>🚀 My Main Arsenal</h4>
