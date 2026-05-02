@@ -5,6 +5,8 @@
 
 <br/>
 
+### 🔪 About Me
+
 I am a software engineer driven by a simple belief: **Great software must be easy and enjoyable to use**. While I am fully capable of working across the entire stack, front-end development is where my heart is. I chose this path because I’ve always loved art, and I believe that code and design belong together. I specialize in turning complex logic into clean, pixel-perfect interfaces.
 
 I have a very low tolerance for bad design. My goal is to build fast, accessible web applications that work perfectly and look even better—driven by a meticulous attention to detail that my doctor might technically call "a touch of OCD," but I just call "getting the pixels right."
