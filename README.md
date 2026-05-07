@@ -11,10 +11,19 @@ I am a software engineer driven by a simple belief: **Great software must be eas
 
 I have a very low tolerance for bad design. My goal is to build fast, accessible web applications that work perfectly and look even better—driven by a meticulous attention to detail that my doctor might technically call "a touch of OCD," but I just call "getting the pixels right."
 
-*   🔭 **Current Project:** I’m building **Aesterisk UI**, a component library inspired by shadcn/ui but with a focus on **brutalist design** as a niche. It’s built to help developers create high-performance sites with a bold, unique look.
-*   🌱 **My Core Stack:** I build modern websites using **Astro** with **TypeScript**, or **Laravel**.
-*   ✨ **Design & Motion:** I use **React**, **TailwindCSS**, and **Framer Motion** to make stuffs pretty.
-*   ☕ **Outside of Code:** On my freetimes, you’ll likely find me camping, driving, or hunting for the perfect cup of coffee.
+*   🔭 **In Development:** [**Aesterisk UI**](https://github.com/PaimanUwU/Aesterisk-UI) — A modern brutalist component library for developers who find "minimalism" a bit too quiet. 
+*   🦀 **The Lab:** Building **Seiri**, a Rust-powered CLI "second brain" implementing the PARA framework for high-velocity knowledge management.
+*   ☕ **Offline:** Catch me at a campsite, behind the wheel, or in a deep-dive conversation about the perfect espresso extraction.
+
+### 🛠️ Tech Stack & Arsenal
+
+| Category | Tools of Choice |
+| :--- | :--- |
+| **Frameworks** | Astro, Laravel, React |
+| **Languages** | TypeScript, PHP, Rust (Learning), Python |
+| **Styling & Motion** | TailwindCSS, Framer Motion, Radix UI |
+| **Environment** | Neovim (CachyOS/Arch), Docker, Fish Shell |
+
 
 <br/>
 
