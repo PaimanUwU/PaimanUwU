@@ -1,5 +1,5 @@
 # 🎨 Adi Putra | Design Engineer
-**Front-End Development & TUI Architect**
+**Front-End Developer**
 
 [**Visit my Portfolio**](https://github.com/PaimanUwU/developer-portfolio.git)
 
