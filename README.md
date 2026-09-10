@@ -1,31 +1,37 @@
 # 🎨 Adi Putra | Design Engineer
-**Front-End Development & UI/UX Design**
+**Front-End Development & TUI Architect**
 
-[**Visit my Portfolio**](https://github.com/PaimanUwU/My-Portfolio)
+[**Visit my Portfolio**](https://github.com/PaimanUwU/developer-portfolio.git)
 
 <br/>
 
 ### 🔪 About Me
 
-I am a software engineer driven by a simple belief: **Great software must be easy and enjoyable to use**. While I am fully capable of working across the entire stack, front-end development is where my heart is. I chose this path because I’ve always loved art, and I believe that code and design belong together. I specialize in turning complex logic into clean, pixel-perfect interfaces.
+I am a software engineer driven by a simple belief: **Great software must be easy, fast, and enjoyable to use**. While I handle full-stack workflows, front-end design and terminal user interfaces (TUIs) are where I thrive. Code and design belong together—whether that's pixel-perfect web interfaces or meticulously styled command-line environments.
 
-I have a very low tolerance for bad design. My goal is to build fast, accessible web applications that work perfectly and look even better—driven by a meticulous attention to detail that my doctor might technically call "a touch of OCD," but I just call it "getting the pixels right."
+I have zero tolerance for bad design or clunky workflows. My goal is to craft fast, accessible applications and minimalist desktop setups, driven by a strict attention to detail—or what my doctor might call "a touch of OCD," but I call getting the padding and color palettes right.
 
-*   🔭 **In Development:** [**Aesterisk UI**](https://github.com/PaimanUwU/Aesterisk-UI) — A modern brutalist component library for developers who find "minimalism" a bit too quiet. 
-*   ⚡ **The Lab:** Building [**Seiri**](https://github.com/PaimanUwU/Seiri), a Go-powered CLI "second brain" implementing the PARA framework for high-velocity knowledge management.
-*   ☕ **Offline:** Catch me in the forest, behind the wheel, or just be living in my bedroom while having a really bad caffiene addiction.
+*   🔭 **In Development:**
+    *   [**AesTerm**](https://github.com/PaimanUwU) — A sleek, ultra-minimalist terminal workspace built for speed, keyboard-driven navigation, and TUI elegance.
+    *   [**AustereUI**](https://github.com/PaimanUwU/Aesterisk-UI) — A modern brutalist component library for developers who find standard "minimalism" a bit too quiet.
+
+*   ☕ **Offline:** Catch me solo camping in the forest, driving with no destination, or tweaking my dotfiles at 3 AM fueled by alarming amounts of caffeine.
+
+---
 
 ### 🛠️ Tech Stack & Arsenal
 
-| Category | Tools of Choice |
+| Category | Tools & Environment |
 | :--- | :--- |
-| **Frameworks** | Astro, Laravel, React |
+| **Terminal / AesTerm** | Ghostty, Tmux, Fish Shell, Starship Prompt |
+| **Editor** | Neovim (LazyVim custom configuration) |
+| **Theme & Aesthetic** | Catppuccin Mocha |
+| **Frameworks** | Astro, React, Laravel, Django |
 | **Languages** | TypeScript, PHP, Golang (Learning) |
 | **Styling & Motion** | TailwindCSS, Framer Motion |
-| **Environment** | Neovim (MacOS, CachyOS/Arch), Docker, Fish Shell |
+| **System & Infra** | macOS, CachyOS (Linux), Docker |
 
-
-<br/>
+---
 
 ### 📖 Education & Experience
 
