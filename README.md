@@ -7,7 +7,7 @@
 
 ### About Me
 
-I am a software engineer driven by a simple belief: **Great software must be easy, fast, and enjoyable to use**. While I handle full-stack workflows, front-end design is where I thrive. Code and design belong together—whether that's pixel-perfect web interfaces or meticulously styled command-line environments.
+I am a software engineer driven by a simple belief: **Great software must be easy, fast, and enjoyable to use**. While I handle full-stack workflows, front-end design is where I thrive. Code and design belong together—whether that's pixel-perfect web interfaces design and user experience.
 
 I have zero tolerance for bad design or clunky workflows. My goal is to craft fast, accessible applications and minimalist desktop setups, driven by a strict attention to detail—or what my doctor might call "a touch of OCD," but I call getting the padding and color palettes right.
 
