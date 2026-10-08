@@ -21,7 +21,7 @@ I have zero tolerance for bad design or clunky workflows. My goal is to craft fa
 
 <br/>
 
-### 🛠️ Tech Stack & Arsenal
+### Tech Stack & Arsenal
 
 | Category | Tools & Environment |
 | :--- | :--- |
@@ -39,7 +39,7 @@ I have zero tolerance for bad design or clunky workflows. My goal is to craft fa
 
 <br/>
 
-### 📖 Education & Experience
+### Education & Experience
 
 **Bachelor in Computer Science (Honours)**  
 *UiTM Shah Alam | 2025 – 2027*
